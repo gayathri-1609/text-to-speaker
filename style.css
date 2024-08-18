@@ -1,0 +1,19 @@
+input {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    color: cornsilk;
+    justify-content: center;
+    box-shadow: rgb(234, 180, 17);
+    display: flexbox;
+    margin-top: 20%;
+    margin-left: 30%;
+    background: black;
+    border-bottom-color: rgb(15, 176, 216);
+    cursor:pointer;
+    caret-color: blueviolet;
+}
+
+body {
+    background-color: black;
+}
